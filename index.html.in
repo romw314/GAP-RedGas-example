@@ -1,0 +1,10 @@
+<!-- Site bootstrapped with GreenAcidPipe -->
+<!DOCTYPE html>
+<html><head><title>RedGas example</title></head><body style="background-color:lightsalmon;color:darkgreen;"><h1>RedGas example - Made with <a href="https://greenacidpipe.vercel.app">GreenAcidPipe/RedGas</a></h1><div id="site_content">
+<!-- Start RedGas content -->
+%(site_content)
+<!-- End RedGas content -->
+</div>
+<!-- Bootstrapped with GreenAcidPipe
+     https://greenacidpipe.vercel.app
+  -->
